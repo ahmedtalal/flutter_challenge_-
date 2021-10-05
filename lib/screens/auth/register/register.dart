@@ -1,4 +1,3 @@
-import 'package:challange_1/constants.dart';
 import 'package:challange_1/screens/auth/register/components/back_btn.dart';
 import 'package:challange_1/screens/auth/register/components/description_register.dart';
 import 'package:challange_1/screens/auth/register/components/login_link.dart';

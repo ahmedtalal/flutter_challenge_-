@@ -1,4 +1,3 @@
-import 'package:challange_1/constants.dart';
 import 'package:flutter/material.dart';
 
 class RegisterInputField extends StatelessWidget {

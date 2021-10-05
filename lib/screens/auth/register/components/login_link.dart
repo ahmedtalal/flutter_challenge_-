@@ -1,7 +1,4 @@
-import 'package:challange_1/screens/auth/register/register.dart';
 import 'package:flutter/material.dart';
-
-import '../../../../constants.dart';
 
 class LoginLink extends StatelessWidget {
   const LoginLink({
